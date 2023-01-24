@@ -7,7 +7,6 @@ body {
     height: 100vh
 }
 .container {
-    align-items: center;
     padding: 30px;
     max-width: 80%;
     max-height: 80%;
@@ -16,6 +15,7 @@ body {
     background: white;
     border-radius: 15px;
     margin: auto; 
+    verticle-align: center;
 }
 
 h1 {
